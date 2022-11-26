@@ -1,11 +1,11 @@
-# API Rest com TypeScript:
+# API Rest with TypeScript:
 
-> Status: 1.0.0
+> Status: Version 1.0.0
 
-Isso é um projeto de teste para começar a formar minha base no TypeScript.
+This is a test project to start building my foundation in TypeScript.
 
-## Tecnologias:
+## Technologies:
 - Node.js
 - TypeScript
 
-**é uma API REST que te permite, Listar todos os "Produtos", Listar um em específico, adicionar, editar ou deletar um Produto**
+**is a REST API that allows you to List all "Products", List a specific one, add, edit or delete a Product**
